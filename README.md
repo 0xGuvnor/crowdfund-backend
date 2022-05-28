@@ -1,4 +1,4 @@
-# Crowdfunding dApp Project
+# Crowdfunding dApp Project - Backend
 
 This project builds upon an advanced sample Hardhat project template to create and test smart contracts for a decentralised crowdfunding application.
 
