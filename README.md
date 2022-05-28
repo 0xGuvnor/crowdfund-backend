@@ -7,8 +7,8 @@ This project builds upon an advanced sample Hardhat project template to create a
 To start, clone this repository and install its dependencies:
 
 ```shell
-git clone https://github.com/0xbagholder/crowdfund-fullstack.git
-cd crowdfund-fullstack
+git clone https://github.com/0xbagholder/crowdfund-backend.git
+cd crowdfund-backend
 npm install
 ```
 
