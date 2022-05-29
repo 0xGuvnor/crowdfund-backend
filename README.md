@@ -18,6 +18,10 @@ npm install
 
 ### Crowdfund.sol
 
+1. 2 Types of Users
+    - Crowdfund Manager
+
+    - Approvers/Contributors
 
 ### CrowdfundFactory.sol
 
