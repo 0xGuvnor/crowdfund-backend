@@ -14,5 +14,10 @@ cd crowdfund-backend
 npm install
 ```
 
-## How the Crowdfunding dApp Works
+## How it Works
+
+### Crowdfund.sol
+
+
+### CrowdfundFactory.sol
 
