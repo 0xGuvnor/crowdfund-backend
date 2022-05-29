@@ -14,13 +14,16 @@ cd crowdfund-backend
 npm install
 ```
 
-## How it Works
+## Overview of the Contracts
 
 ### Crowdfund.sol
 
 2 Types of Users will be interacting with this contract:
 
 - Crowdfund Manager
+    - The address that deployed the contract and is seeking to raise funds for a product/project
+    - Will have to submit a request to spend any money the crowdfunding campaign has raised (e.g. to pay for raw materials or suppliers etc.)
+    - A request will only be approved for spending if >= 50% of the crowdfund's contributors approve.
 
 - Approvers/Contributors
 
