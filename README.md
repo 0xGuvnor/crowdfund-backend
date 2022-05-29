@@ -20,9 +20,9 @@ npm install
 
 2 Types of Users will be interacting with this contract:
 
-    - Crowdfund Manager
+- Crowdfund Manager
 
-    - Approvers/Contributors
+- Approvers/Contributors
 
 ### CrowdfundFactory.sol
 
