@@ -2,7 +2,9 @@
 
 This project builds upon an advanced sample Hardhat project template to create and test smart contracts for a decentralised crowdfunding application.
 
-## Quick Start
+To spin up the front end locally on your machine, you can find the repository [here](https://github.com/0xbagholder/crowdfund-frontend).
+
+## Getting Start
 
 To start, clone this repository and install its dependencies:
 
@@ -12,6 +14,5 @@ cd crowdfund-backend
 npm install
 ```
 
-## Front End
+## How the Crowdfunding dApp Works
 
-To spin up the front end locally on your machine, you can find the repository [here](https://github.com/0xbagholder/crowdfund-frontend).
