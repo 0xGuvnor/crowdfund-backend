@@ -28,10 +28,10 @@ npm install
 
 - Approvers/Contributors
     - Any user that contributes an amount greater than or equal to the crowdfunding campaign's minimum contribution threshold
-    - Will be able to vote to approve on the spending of raised funds as detailed by a request made by the crowdfund manager
+    - Will be able to vote to approve on the spending of raised funds as detailed by requests made by the crowdfund manager
 
 ### CrowdfundFactory.sol
 
-Factory contract to deploy individual crowdfunding campaigns.
+Factory contract used to deploy individual crowdfunding campaigns.
 
 Users will be interacting with this contract on the [frontend](https://github.com/0xbagholder/crowdfund-frontend) to create a new crowdfunding campaign.
