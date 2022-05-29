@@ -2,7 +2,7 @@
 
 This project builds upon an advanced sample Hardhat project template to create and test smart contracts for a decentralised crowdfunding application.
 
-To spin up the front end locally on your machine, you can find the repository [here](https://github.com/0xbagholder/crowdfund-frontend).
+To spin up the frontend locally on your machine, you can find the repository [here](https://github.com/0xbagholder/crowdfund-frontend) with instruction.
 
 ## Getting Start
 
@@ -18,7 +18,7 @@ npm install
 
 ### Crowdfund.sol
 
-1. 2 Types of Users
+2 Types of Users will be interacting with this contract:
     - Crowdfund Manager
 
     - Approvers/Contributors
